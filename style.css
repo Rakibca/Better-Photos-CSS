@@ -108,18 +108,12 @@ a {
   color: #555a5b;
 }
 
-.search__icon {
-}
-
 .nav {
   margin-left: auto;
 }
 
 .nav__list {
   display: flex;
-}
-
-.nav__item {
 }
 
 .nav__link {
