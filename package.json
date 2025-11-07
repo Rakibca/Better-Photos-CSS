@@ -1,0 +1,23 @@
+{
+  "name": "better-photos-css",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Rakibca/Better-Photos-CSS#readme",
+  "bugs": {
+    "url": "https://github.com/Rakibca/Better-Photos-CSS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakibca/Better-Photos-CSS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass main.scss style.css"
+  },
+  "dependencies": {
+    "sass": "^1.93.3"
+  }
+}
