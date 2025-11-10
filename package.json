@@ -15,7 +15,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "compile": "sass --watch --no-source-map main.scss style.css"
+    "compile": "sass --watch --no-source-map src/main.scss src/style.css"
   },
   "dependencies": {
     "sass": "^1.93.3"
